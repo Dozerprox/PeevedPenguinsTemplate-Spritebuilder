@@ -1694,7 +1694,7 @@
 								<key>value</key>
 								<array>
 									<real>478.82086181640625</real>
-									<real>333.33200073242188</real>
+									<real>322.7198486328125</real>
 									<integer>0</integer>
 									<integer>0</integer>
 									<integer>0</integer>
@@ -1722,6 +1722,8 @@
 								<string>Snow.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
