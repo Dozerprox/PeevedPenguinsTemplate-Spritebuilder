@@ -1693,11 +1693,11 @@
 								<string>Position</string>
 								<key>value</key>
 								<array>
-									<real>478.82086181640625</real>
-									<real>1</real>
+									<real>472.82086181640625</real>
+									<real>400</real>
 									<integer>0</integer>
 									<integer>0</integer>
-									<integer>2</integer>
+									<integer>0</integer>
 								</array>
 							</dict>
 							<dict>
@@ -1722,6 +1722,8 @@
 								<string>Snow.ccb</string>
 							</dict>
 						</array>
+						<key>selected</key>
+						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
@@ -2120,8 +2122,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
