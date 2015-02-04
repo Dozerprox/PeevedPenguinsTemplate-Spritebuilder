@@ -1694,10 +1694,10 @@
 								<key>value</key>
 								<array>
 									<real>478.82086181640625</real>
-									<real>322.7198486328125</real>
+									<real>1</real>
 									<integer>0</integer>
 									<integer>0</integer>
-									<integer>0</integer>
+									<integer>2</integer>
 								</array>
 							</dict>
 							<dict>
@@ -2164,9 +2164,9 @@
 				<key>value</key>
 				<array>
 					<real>960</real>
-					<real>320</real>
+					<real>1</real>
 					<integer>0</integer>
-					<integer>0</integer>
+					<integer>2</integer>
 				</array>
 			</dict>
 			<dict>
